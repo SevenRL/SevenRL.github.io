@@ -41,4 +41,4 @@ Helping clients find right solutions to software and hardware for their electron
 <br><br>
 
 ## ✏️ Skills
-  
+  * Operating system: Windows 10, Linux
