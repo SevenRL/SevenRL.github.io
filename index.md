@@ -42,3 +42,13 @@ Helping clients find right solutions to software and hardware for their electron
 
 ## ✏️ Skills
   * Operating system: Windows 10, Linux
+  * Expertise in Java, C++, C, Pyhton
+  * Proficient Knowledge of OOP
+  * Problem-solving
+  * Pesonable
+
+## 📁 Projects
+**Bug Tracker**, _Developed in Android Studio_ (May 2020 - Aug 2020)
+  * Team project which was developed using agile software development
+  * Responsible for designing the interface as well use OOP to create other pieces of the software
+  * Extensively tested the software
