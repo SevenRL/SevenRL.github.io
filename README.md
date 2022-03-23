@@ -16,3 +16,6 @@ Two things will be required before we move on to elaborate how to host a resume:
 4. To get the config file, go to the repository's settings on the tab next to Insights
 5. Scroll down till you find Github Pages
 6. From here, you can choose an appropriate theme to support the resume
+
+
+![](https://github.com/SevenRL/SevenRL.github.io/blob/main/GIFResume.gif)
